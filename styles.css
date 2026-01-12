@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    background-color: beige;
+}
+
+#main-dir {
+    display: inline-block;
+    text-align: left; 
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+}
+
+#ingredients {
+    display: inline-block;
+    text-align: left;
+}
+
+#instructions {
+    display: inline-block;
+    text-align: left;
+}
+
+.list-format {
+    display: block;
+}
+
+
